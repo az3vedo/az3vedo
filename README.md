@@ -26,7 +26,10 @@ Sou formado Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec São
 ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![nestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 <!-- Github Status -->
-![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=az3vedo&show_icons=true&theme=transparent)
+<!-- [![Minha stack](https://github-readme-stats.vercel.app/api/top-langs/?username=az3vedo&hide=Jupyter,HTML,Handlebars)] -->
+![Meu GitHub stats](https://az3vedo-github-readme-stats.vercel.app/api?username=az3vedo&show_icons=true&theme=transparent&hide=title&count_private=true)
+
+
 >Github Status powered by <a href="https://github.com/anuraghazra/github-readme-stats">@anuraghazra</a>
 
 >Technologies badges powered by <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">@alexandresanlim</a>
