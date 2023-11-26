@@ -17,6 +17,7 @@ Sou formado Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec São
 
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+Atualmente estou estudando para adicionar o shield do Java nesta seção 😏
 <!-- Ferramentas -->
 ## Ferramentas e Frameworks
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
